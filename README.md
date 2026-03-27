@@ -6,7 +6,7 @@ This repository showcases my professional work in UI/UX and Editorial Design, fo
 
 ## ♻️ Eco-Ciclo | Reverse Logistics Solution
 
-**➡️[Check here on Figma](https://www.figma.com/design/xX5RrWo2bunbch6W7DiqjB/Eco-Ciclo-Inova-Cps?node-id=0-1&t=CAqGdr0uM2PUfvR1-1)**
+**➡️ [Check here on Figma](https://www.figma.com/design/xX5RrWo2bunbch6W7DiqjB/Eco-Ciclo-Inova-Cps?node-id=0-1&t=CAqGdr0uM2PUfvR1-1)**
 
 ### 📌 Overview
 **Eco-Ciclo** is a sustainable solution focused on the circular economy and green logistics. The project addresses the environmental impact of e-commerce packaging waste by creating an efficient bridge between consumers and recycling points.
@@ -29,7 +29,7 @@ The core value of Eco-Ciclo is **Responsibility**. We believe sustainability sho
 
 ## 📖 Zona Jovem Magazine | Editorial Design
 
-**➡️[Check here on Figma](COLOCAR_O_LINK_DO_FIGMA_AQUI)**
+**➡️ [Check here on Figma](https://www.figma.com/design/fCCutjwfeCywoYxOcrmzlt/Zona-Jovem-Magazine-%7C-Editorial-Design?node-id=0-1&t=CAqGdr0uM2PUfvR1-1)**
 
 ### 📌 Overview
 **Zona Jovem** is a publication where I served as the **Lead Editorial Designer**. This project showcases the intersection of journalism, community voice, and visual storytelling through a comprehensive 41-page layout.
