@@ -50,7 +50,7 @@ The project is built on **Expression** and **Community**. The design language is
 
 ---
 
-# 🌱 Ybyra | Environmental Engagement Platform
+## 🌱 Ybyra | Environmental Engagement Platform
 
 **➡️ [Check here on Figma](https://www.figma.com/design/2XkoZxIOWhGAL4N8oaxB3z/Ybyra-%7C-Web-Design?node-id=2-2&t=CAqGdr0uM2PUfvR1-1)**
 
