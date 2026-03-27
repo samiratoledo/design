@@ -47,3 +47,27 @@ The project is built on **Expression** and **Community**. The design language is
 * **Layout & Diagramming:** Utilization of advanced grid systems to organize complex information.
 * **Asset Management:** Selection and editing of imagery to complement the editorial tone.
 * **Tools:** Primary focus on professional publishing tools and vector software (**CorelDraw**) to ensure print-ready quality.
+
+---
+
+# 🌱 Ybyra | Environmental Engagement Platform
+
+**➡️ [Check here on Figma](https://www.figma.com/design/2XkoZxIOWhGAL4N8oaxB3z/Ybyra-%7C-Web-Design?node-id=2-2&t=CAqGdr0uM2PUfvR1-1)**
+
+### 📌 Overview
+**Ybyra** is a UI/UX case study for a web-based platform designed to foster a global community dedicated to environmental preservation. The project explores gamification and direct community action to transform awareness into tangible ecological impact.
+
+### 🎯 Objectives
+* **Increase Environmental Literacy:** Provide accessible resources and guides for sustainable practices (e.g., "How to Dispose").
+* **Drive Local Action:** Facilitate participation in community-led environmental missions.
+* **Gamify Sustainability:** Reward positive actions with the "Gaia Score" and a ranking system to sustain long-term engagement.
+* **Streamline User Flow:** Create an intuitive onboarding experience for both individual users and supporting organizations.
+
+### 💡 Concept & Values
+The core philosophy of **Ybyra** is **Community-Driven Change**. The design system is rooted in accessibility and trust. The visual identity uses a palette of deep forest greens and complementary purples to distinguish informational sections from action-oriented ones, creating a clear visual hierarchy. The clean typography and custom iconography are designed to communicate complex environmental concepts simply and effectively.
+
+### 🛠️ Development Process
+* **Information Architecture:** Mapping complex topics like waste management into clear, scannable navigation.
+* **Gamification Design:** Developing the logic for user rewards, trophies, and the community leaderboard.
+* **UI Design:** Crafting high-fidelity, componentized layouts in **Figma** with a focus on modern web standards.
+* **Visual Storytelling:** Creating unique assets for plant life-cycles and sustainability milestones.
