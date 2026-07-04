@@ -1,73 +1,73 @@
-# 🎨 Featured Design Projects
+# 🎨 Projetos de Design em Destaque
 
-This repository showcases my professional work in UI/UX and Editorial Design, focusing on sustainability, user experience, and visual storytelling.
-
----
-
-## ♻️ Eco-Ciclo | Reverse Logistics Solution
-
-**➡️ [Check here on Figma](https://www.figma.com/design/xX5RrWo2bunbch6W7DiqjB/Eco-Ciclo-Inova-Cps?node-id=0-1&t=CAqGdr0uM2PUfvR1-1)**
-
-### 📌 Overview
-**Eco-Ciclo** is a sustainable solution focused on the circular economy and green logistics. The project addresses the environmental impact of e-commerce packaging waste by creating an efficient bridge between consumers and recycling points.
-
-### 🎯 Objectives
-* **Environmental Impact:** Reduce the volume of packaging discarded in landfills.
-* **User Engagement:** Incentivize sustainable habits through a practical and intuitive interface.
-* **Logistics Efficiency:** Optimize the reverse flow of materials from the end-user back into the production cycle.
-
-### 💡 Concept & Values
-The core value of Eco-Ciclo is **Responsibility**. We believe sustainability shouldn't be a burden but a seamless part of the shopping experience. The design uses a clean, nature-inspired palette to evoke trust, combined with high-fidelity UX to ensure accessibility for all users.
-
-### 🛠️ Development Process
-* **Research:** Analysis of international environmental standards and current e-commerce gaps.
-* **Branding:** Creation of a unique visual identity and logo representing the "cycle."
-* **UI/UX Design:** Development of user journey maps and high-fidelity wireframes in **Figma**.
-* **Prototyping:** Interactive flows designed to simulate a real-world application environment.
+Este repositório reúne alguns dos meus principais trabalhos em **UI/UX Design** e **Design Editorial**, com foco em sustentabilidade, experiência do usuário e comunicação visual.
 
 ---
 
-## 📖 Zona Jovem Magazine | Editorial Design
+## ♻️ Eco-Ciclo | Solução para Logística Reversa
 
-**➡️ [Check here on Figma](https://www.figma.com/design/fCCutjwfeCywoYxOcrmzlt/Zona-Jovem-Magazine-%7C-Editorial-Design?node-id=0-1&t=CAqGdr0uM2PUfvR1-1)**
+**➡️ [Acesse o projeto no Figma](https://www.figma.com/design/xX5RrWo2bunbch6W7DiqjB/Eco-Ciclo-Inova-Cps?node-id=0-1&t=CAqGdr0uM2PUfvR1-1)**
 
-### 📌 Overview
-**Zona Jovem** is a publication where I served as the **Lead Editorial Designer**. This project showcases the intersection of journalism, community voice, and visual storytelling through a comprehensive 41-page layout.
+### 📌 Sobre o Projeto
+O **Eco-Ciclo** é uma solução voltada para a economia circular e a logística reversa. O projeto busca reduzir o impacto ambiental causado pelo descarte de embalagens do e-commerce, conectando consumidores a pontos de coleta e reciclagem de forma simples e eficiente.
 
-### 🎯 Objectives
-* **Visual Consistency:** Maintaining a cohesive identity across diverse topics and articles.
-* **Readability:** Prioritizing text hierarchy and white space to ensure a comfortable reading experience.
-* **Engagement:** Using dynamic layouts to capture the attention of a younger audience.
+### 🎯 Objetivos
+- **Impacto Ambiental:** Reduzir o volume de embalagens descartadas em aterros sanitários.
+- **Engajamento dos Usuários:** Incentivar hábitos sustentáveis por meio de uma interface prática e intuitiva.
+- **Eficiência Logística:** Otimizar o fluxo de retorno dos materiais para reinseri-los no ciclo produtivo.
 
-### 💡 Concept & Values
-The project is built on **Expression** and **Community**. The design language is bold and modern, reflecting the energy of the youth while maintaining the professional standards of a high-quality publication.
+### 💡 Conceito & Valores
+O principal valor do Eco-Ciclo é a **Responsabilidade**. A proposta é mostrar que a sustentabilidade pode fazer parte da rotina das pessoas sem gerar dificuldades. A identidade visual utiliza uma paleta inspirada na natureza, transmitindo confiança e reforçando a preocupação ambiental, aliada a uma experiência acessível e intuitiva.
 
-### 🛠️ Development Process
-* **Lead Editorial Role:** Coordination of the visual direction and layout for all 41 pages.
-* **Layout & Diagramming:** Utilization of advanced grid systems to organize complex information.
-* **Asset Management:** Selection and editing of imagery to complement the editorial tone.
-* **Tools:** Primary focus on professional publishing tools and vector software (**CorelDraw**) to ensure print-ready quality.
+### 🛠️ Processo de Desenvolvimento
+- Pesquisa sobre logística reversa, sustentabilidade e desafios do comércio eletrônico.
+- Criação da identidade visual e do logotipo.
+- Desenvolvimento da experiência do usuário (UX) e da interface (UI) no **Figma**.
+- Protótipos navegáveis simulando o funcionamento de uma aplicação real.
 
 ---
 
-## 🌱 Ybyra | Environmental Engagement Platform
+## 📖 Zona Jovem Magazine | Design Editorial
 
-**➡️ [Check here on Figma](https://www.figma.com/design/2XkoZxIOWhGAL4N8oaxB3z/Ybyra-%7C-Web-Design?node-id=2-2&t=CAqGdr0uM2PUfvR1-1)**
+**➡️ [Acesse o projeto no Figma](https://www.figma.com/design/fCCutjwfeCywoYxOcrmzlt/Zona-Jovem-Magazine-%7C-Editorial-Design?node-id=0-1&t=CAqGdr0uM2PUfvR1-1)**
 
-### 📌 Overview
-**Ybyra** is a UI/UX case study for a web-based platform designed to foster a global community dedicated to environmental preservation. The project explores gamification and direct community action to transform awareness into tangible ecological impact.
+### 📌 Sobre o Projeto
+O **Zona Jovem Magazine** é um projeto editorial no qual atuei como **Designer Editorial Principal**, sendo responsável pela direção visual e diagramação de uma revista com **41 páginas**.
 
-### 🎯 Objectives
-* **Increase Environmental Literacy:** Provide accessible resources and guides for sustainable practices (e.g., "How to Dispose").
-* **Drive Local Action:** Facilitate participation in community-led environmental missions.
-* **Gamify Sustainability:** Reward positive actions with the "Gaia Score" and a ranking system to sustain long-term engagement.
-* **Streamline User Flow:** Create an intuitive onboarding experience for both individual users and supporting organizations.
+### 🎯 Objetivos
+- **Consistência Visual:** Manter uma identidade visual unificada em todas as páginas.
+- **Legibilidade:** Organizar o conteúdo com hierarquia tipográfica e uso estratégico de espaços em branco.
+- **Engajamento:** Criar layouts modernos e dinâmicos voltados ao público jovem.
 
-### 💡 Concept & Values
-The core philosophy of **Ybyra** is **Community-Driven Change**. The design system is rooted in accessibility and trust. The visual identity uses a palette of deep forest greens and complementary purples to distinguish informational sections from action-oriented ones, creating a clear visual hierarchy. The clean typography and custom iconography are designed to communicate complex environmental concepts simply and effectively.
+### 💡 Conceito & Valores
+O projeto é baseado nos conceitos de **Expressão** e **Comunidade**. O design combina uma linguagem visual moderna com princípios editoriais, proporcionando uma leitura agradável sem perder impacto visual.
 
-### 🛠️ Development Process
-* **Information Architecture:** Mapping complex topics like waste management into clear, scannable navigation.
-* **Gamification Design:** Developing the logic for user rewards, trophies, and the community leaderboard.
-* **UI Design:** Crafting high-fidelity, componentized layouts in **Figma** with a focus on modern web standards.
-* **Visual Storytelling:** Creating unique assets for plant life-cycles and sustainability milestones.
+### 🛠️ Processo de Desenvolvimento
+- Coordenação da direção visual da revista.
+- Diagramação e organização das 41 páginas utilizando grids editoriais.
+- Seleção e tratamento de imagens para fortalecer a narrativa visual.
+- Desenvolvimento utilizando **CorelDRAW** e outras ferramentas de design gráfico.
+
+---
+
+## 🌱 Ybyra | Plataforma de Engajamento Ambiental
+
+**➡️ [Acesse o projeto no Figma](https://www.figma.com/design/2XkoZxIOWhGAL4N8oaxB3z/Ybyra-%7C-Web-Design?node-id=2-2&t=CAqGdr0uM2PUfvR1-1)**
+
+### 📌 Sobre o Projeto
+O **Ybyra** é um estudo de caso em UI/UX para uma plataforma web criada com o objetivo de incentivar ações ambientais por meio da participação da comunidade. O projeto utiliza gamificação para transformar conscientização em impacto ambiental real.
+
+### 🎯 Objetivos
+- **Promover Educação Ambiental:** Disponibilizar conteúdos e guias sobre práticas sustentáveis.
+- **Estimular Ações Locais:** Facilitar a participação em missões e projetos ambientais comunitários.
+- **Gamificar a Sustentabilidade:** Recompensar boas práticas por meio do **Gaia Score**, conquistas e rankings.
+- **Melhorar a Experiência do Usuário:** Desenvolver um fluxo intuitivo para usuários e organizações parceiras.
+
+### 💡 Conceito & Valores
+O conceito central do **Ybyra** é a **Transformação por meio da Comunidade**. O sistema de design foi desenvolvido priorizando acessibilidade, confiança e clareza na comunicação. A identidade visual utiliza tons de verde e roxo para diferenciar conteúdos informativos de ações práticas, criando uma navegação intuitiva e uma hierarquia visual eficiente.
+
+### 🛠️ Processo de Desenvolvimento
+- Estruturação da arquitetura da informação.
+- Planejamento do sistema de gamificação, incluindo pontuação, conquistas e ranking.
+- Desenvolvimento da interface no **Figma**, utilizando componentes reutilizáveis e padrões modernos de UI.
+- Criação de ilustrações e elementos gráficos relacionados à sustentabilidade e preservação ambiental.
